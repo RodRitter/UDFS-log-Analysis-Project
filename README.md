@@ -17,6 +17,7 @@ These are displayed in plain text format in the terminal.
 ## Example
 You should see something similar to the following:
 
+```
 ---------------------------------------------------------
                     Article Log Analysis
 ---------------------------------------------------------
@@ -37,3 +38,4 @@ Markoff Chaney - 84557 Views
 -------- Days Where Greater Than 1% Errors ---------
 
 2016-07-17 - 2.33%
+```
