@@ -9,6 +9,7 @@ These are displayed in plain text format in the terminal.
 
 ## Dependencies
 - Python 3.6
+- The database is named `news`. If this changes, then it will need to be updated in the `psycopg2.connect()` method.
 
 ## Usage
 - Run the script `python3 logger.py`
