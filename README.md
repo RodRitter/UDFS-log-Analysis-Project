@@ -5,7 +5,7 @@ This is a short script that answers 3 simple questions:
 2. Who are the most popular article authors of all time?
 3. On which days did more than 1% of requests lead to errors?
 
-These are displayed directly in the terminal in plain text format.
+These are displayed in plain text format in the terminal.
 
 ## Dependencies
 - Python 3.6
