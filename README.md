@@ -1,3 +1,5 @@
+This is project code for the Udacity [Full-Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004)
+
 # Article Log Analysis
 
 This is a short script that answers 3 simple questions:
